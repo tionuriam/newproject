@@ -1,1 +1,1 @@
-print("Mauri riki")  
+print("Another edit of this script")  
